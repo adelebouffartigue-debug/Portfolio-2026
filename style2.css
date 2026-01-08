@@ -1,0 +1,29 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	background-color: whitesmoke;
+	font-family: Constantia,"Lucida Bright', 'DejaVu Serif', Georgia, 'serif";
+	font-size: 20px;
+	text-align: center;
+}
+
+img{
+	width: 500px;
+	height: auto;
+	
+}
+.grand{
+	width: 500px;
+	height: auto;
+}             /* espace entre les images */
+}
+
+.images img{
+	width: 300px;
+	height: auto;
+}
+
+p{
+	margin-bottom: 40px;
+}
